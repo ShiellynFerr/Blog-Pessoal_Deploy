@@ -1,0 +1,33 @@
+.text-decorator-none {
+  text-decoration: none;
+}
+
+.background {
+  background: linear-gradient(to right, #33191b, #d0c0ac, #c1493e);
+}
+.text-decorator-none {
+  text-decoration: none;
+}
+
+.cursor {
+  cursor: pointer;
+  color: #ffffff;
+}
+
+.margin-rigth {
+  margin-right: 30px;
+}
+
+.navbar-bar {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(9, 9, 121, 1) 35%,
+    rgba(0, 212, 255, 1) 100%
+  );
+}
+
+.cor-navbar{
+  background-color: #000000 !important;
+}

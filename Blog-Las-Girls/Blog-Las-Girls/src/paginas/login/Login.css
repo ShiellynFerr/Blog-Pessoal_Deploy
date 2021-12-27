@@ -1,0 +1,30 @@
+.text-decorator-none {
+  text-decoration: none;
+}
+
+/* .background-login{
+  background: linear-gradient(20deg,#d0887a,#813f31,#9c7c7c,#28110c);
+} */
+
+.background-login{
+  background: linear-gradient(200deg,#bc77,#0e0811,#622e58,#6c4898,#8086d4);
+}
+
+
+.texto-bold {
+  font-weight: bold !important;
+}
+
+.imagem-login {
+  background-image: url(https://images7.alphacoders.com/615/615565.jpg);
+  background-repeat: non-repeat;
+  width: 100vh;
+  min-height: 100vh;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.cor-login {
+  background-color: salmon;
+}

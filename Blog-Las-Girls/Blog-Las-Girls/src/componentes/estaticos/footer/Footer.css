@@ -1,0 +1,32 @@
+.box-footer {
+  background-color: #3f51b5;
+  height: 80px;
+}
+
+.box-footer2 {
+  background-color: #3f51b5;
+  height: "60px";
+}
+
+.cor-texto-branco {
+  color: #ffffff;
+}
+
+.redes-sociais {
+  font-size: 40px !important;
+  color: white;
+}
+
+.background {
+  background: linear-gradient(
+    to rigth #33264f,
+    #cd9495,
+    #8b415f,
+    #8878b4,
+    #9da2c8
+  );
+}
+
+.cor-footer{
+  background-color: #000000 !important;
+}
